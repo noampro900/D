@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:24379487
+#EXTINF:6.0,
+media_b1596000_24379487.ts?smil_profile=default
+#EXTINF:6.0,
+media_b1596000_24379488.ts?smil_profile=default
+#EXTINF:6.0,
+media_b1596000_24379489.ts?smil_profile=default
+#EXTINF:6.0,
+media_b1596000_24379490.ts?smil_profile=default
+#EXTINF:6.0,
+media_b1596000_24379491.ts?smil_profile=default
